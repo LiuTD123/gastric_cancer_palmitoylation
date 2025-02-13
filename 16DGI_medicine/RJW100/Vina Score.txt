@@ -1,0 +1,17 @@
+CurPocket
+ID	Vina 
+score 	Cavity 
+volume (Å3) 	Center
+(x, y, z)	Docking size
+(x, y, z)	Contact
+residues	Download
+C4	-8.4	1007	5, -8, 28	21, 21, 21	View	Ligand [MOL2], [PDB]
+Protein-Ligand [PDB]
+C1	-7.9	16978	5, 0, 15	35, 35, 35	View	Ligand [MOL2], [PDB]
+Protein-Ligand [PDB]
+C2	-7.4	6235	23, 28, 17	35, 21, 33	View	Ligand [MOL2], [PDB]
+Protein-Ligand [PDB]
+C5	-6.5	509	8, 23, 28	21, 21, 30	View	Ligand [MOL2], [PDB]
+Protein-Ligand [PDB]
+C3	-5.8	1196	18, 39, 24	21, 33, 21	View	Ligand [MOL2], [PDB]
+Protein-Ligand [PDB]

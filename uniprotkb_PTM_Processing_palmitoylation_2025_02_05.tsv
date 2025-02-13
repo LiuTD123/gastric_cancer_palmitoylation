@@ -1,0 +1,46 @@
+Entry	Reviewed	Entry Name	Protein names	Gene Names	Organism	Length
+O43323	reviewed	DHH_HUMAN	Desert hedgehog protein (DHH) (EC 3.1.-.-) (HHG-3) [Cleaved into: Desert hedgehog protein N-product (DHH-N)]	DHH	Homo sapiens (Human)	396
+O60443	reviewed	GSDME_HUMAN	Gasdermin-E (Inversely correlated with estrogen receptor expression 1) (ICERE-1) (Non-syndromic hearing impairment protein 5) [Cleaved into: Gasdermin-E, N-terminal (GSDME-NT); Gasdermin-E, C-terminal (GSDME-CT)]	GSDME DFNA5 ICERE1	Homo sapiens (Human)	496
+P01111	reviewed	RASN_HUMAN	GTPase NRas (EC 3.6.5.2) (Transforming protein N-Ras)	NRAS HRAS1	Homo sapiens (Human)	189
+P01112	reviewed	RASH_HUMAN	GTPase HRas (EC 3.6.5.2) (H-Ras-1) (Ha-Ras) (Transforming protein p21) (c-H-ras) (p21ras) [Cleaved into: GTPase HRas, N-terminally processed]	HRAS HRAS1	Homo sapiens (Human)	189
+P01116	reviewed	RASK_HUMAN	GTPase KRas (EC 3.6.5.2) (K-Ras 2) (Ki-Ras) (c-K-ras) (c-Ki-ras) [Cleaved into: GTPase KRas, N-terminally processed]	KRAS KRAS2 RASK2	Homo sapiens (Human)	189
+P01732	reviewed	CD8A_HUMAN	T-cell surface glycoprotein CD8 alpha chain (T-lymphocyte differentiation antigen T8/Leu-2) (CD antigen CD8a)	CD8A MAL	Homo sapiens (Human)	235
+P06734	reviewed	FCER2_HUMAN	Low affinity immunoglobulin epsilon Fc receptor (BLAST-2) (C-type lectin domain family 4 member J) (Fc-epsilon-RII) (Immunoglobulin E-binding factor) (Lymphocyte IgE receptor) (CD antigen CD23) [Cleaved into: Low affinity immunoglobulin epsilon Fc receptor membrane-bound form; Low affinity immunoglobulin epsilon Fc receptor soluble form]	FCER2 CD23A CLEC4J FCE2 IGEBF	Homo sapiens (Human)	321
+P07550	reviewed	ADRB2_HUMAN	Beta-2 adrenergic receptor (Beta-2 adrenoreceptor) (Beta-2 adrenoceptor)	ADRB2 ADRB2R B2AR	Homo sapiens (Human)	413
+P10275	reviewed	ANDR_HUMAN	Androgen receptor (Dihydrotestosterone receptor) (Nuclear receptor subfamily 3 group C member 4)	AR DHTR NR3C4	Homo sapiens (Human)	920
+P11801	reviewed	KPSH1_HUMAN	Serine/threonine-protein kinase H1 (EC 2.7.11.1) (Protein serine kinase H1) (PSK-H1)	PSKH1	Homo sapiens (Human)	424
+P13569	reviewed	CFTR_HUMAN	Cystic fibrosis transmembrane conductance regulator (CFTR) (ATP-binding cassette sub-family C member 7) (Channel conductance-controlling ATPase) (EC 5.6.1.6) (cAMP-dependent chloride channel)	CFTR ABCC7	Homo sapiens (Human)	1480
+P16671	reviewed	CD36_HUMAN	Platelet glycoprotein 4 (Fatty acid translocase) (FAT) (Glycoprotein IIIb) (GPIIIB) (Leukocyte differentiation antigen CD36) (PAS IV) (PAS-4) (Platelet collagen receptor) (Platelet glycoprotein IV) (GPIV) (Thrombospondin receptor) (CD antigen CD36)	CD36 GP3B GP4	Homo sapiens (Human)	472
+P19838	reviewed	NFKB1_HUMAN	Nuclear factor NF-kappa-B p105 subunit (DNA-binding factor KBF1) (EBP-1) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1) [Cleaved into: Nuclear factor NF-kappa-B p50 subunit]	NFKB1	Homo sapiens (Human)	968
+P25445	reviewed	TNR6_HUMAN	Tumor necrosis factor receptor superfamily member 6 (Apo-1 antigen) (Apoptosis-mediating surface antigen FAS) (FASLG receptor) (CD antigen CD95)	FAS APT1 FAS1 TNFRSF6	Homo sapiens (Human)	335
+P27824	reviewed	CALX_HUMAN	Calnexin (IP90) (Major histocompatibility complex class I antigen-binding protein p88) (p90)	CANX	Homo sapiens (Human)	592
+P28222	reviewed	5HT1B_HUMAN	5-hydroxytryptamine receptor 1B (5-HT-1B) (5-HT1B) (S12) (Serotonin 1D beta receptor) (5-HT-1D-beta) (Serotonin receptor 1B)	HTR1B HTR1DB	Homo sapiens (Human)	390
+P40763	reviewed	STAT3_HUMAN	Signal transducer and activator of transcription 3 (Acute-phase response factor)	STAT3 APRF	Homo sapiens (Human)	770
+P49841	reviewed	GSK3B_HUMAN	Glycogen synthase kinase-3 beta (GSK-3 beta) (EC 2.7.11.26) (Serine/threonine-protein kinase GSK3B) (EC 2.7.11.1)	GSK3B	Homo sapiens (Human)	420
+P55212	reviewed	CASP6_HUMAN	Caspase-6 (CASP-6) (CSP-6) (EC 3.4.22.59) (Apoptotic protease Mch-2) [Cleaved into: Caspase-6 subunit p18 (Caspase-6 subunit p20); Caspase-6 subunit p11 (Caspase-6 subunit p10)]	CASP6 MCH2	Homo sapiens (Human)	293
+P56704	reviewed	WNT3A_HUMAN	Protein Wnt-3a	WNT3A	Homo sapiens (Human)	352
+P56817	reviewed	BACE1_HUMAN	Beta-secretase 1 (EC 3.4.23.46) (Aspartyl protease 2) (ASP2) (Asp 2) (Beta-site amyloid precursor protein cleaving enzyme 1) (Beta-site APP cleaving enzyme 1) (Memapsin-2) (Membrane-associated aspartic protease 2)	BACE1 BACE KIAA1149	Homo sapiens (Human)	501
+P57764	reviewed	GSDMD_HUMAN	Gasdermin-D (Gasdermin domain-containing protein 1) [Cleaved into: Gasdermin-D, N-terminal (GSDMD-NT) (hGSDMD-NTD); Gasdermin-D, C-terminal (GSDMD-CT) (hGSDMD-CTD); Gasdermin-D, p13 (Gasdermin-D, 13 kDa) (13 kDa GSDMD); Gasdermin-D, p40]	GSDMD DFNA5L GSDMDC1 FKSG10	Homo sapiens (Human)	484
+P60880	reviewed	SNP25_HUMAN	Synaptosomal-associated protein 25 (SNAP-25) (Super protein) (SUP) (Synaptosomal-associated 25 kDa protein)	SNAP25 SNAP	Homo sapiens (Human)	206
+P62280	reviewed	RS11_HUMAN	Small ribosomal subunit protein uS17 (40S ribosomal protein S11)	RPS11	Homo sapiens (Human)	158
+Q00013	reviewed	EM55_HUMAN	55 kDa erythrocyte membrane protein (p55) (Membrane protein, palmitoylated 1)	MPP1 DXS552E EMP55	Homo sapiens (Human)	466
+Q12791	reviewed	KCMA1_HUMAN	Calcium-activated potassium channel subunit alpha-1 (BK channel) (BKCA alpha) (Calcium-activated potassium channel, subfamily M subunit alpha-1) (K(VCA)alpha) (KCa1.1) (Maxi K channel) (MaxiK) (Slo-alpha) (Slo1) (Slowpoke homolog) (Slo homolog) (hSlo)	KCNMA1 KCNMA SLO	Homo sapiens (Human)	1236
+Q15465	reviewed	SHH_HUMAN	Sonic hedgehog protein (SHH) (EC 3.1.-.-) (HHG-1) (Shh unprocessed N-terminal signaling and C-terminal autoprocessing domains) (ShhNC) [Cleaved into: Sonic hedgehog protein N-product (ShhN) (Shh N-terminal processed signaling domains) (ShhNp)]	SHH	Homo sapiens (Human)	462
+Q16518	reviewed	RPE65_HUMAN	Retinoid isomerohydrolase (EC 3.1.1.64) (All-trans-retinyl-palmitate hydrolase) (Lutein isomerase) (Meso-zeaxanthin isomerase) (EC 5.3.3.22) (Retinal pigment epithelium-specific 65 kDa protein) (Retinol isomerase)	RPE65	Homo sapiens (Human)	533
+Q16549	reviewed	PCSK7_HUMAN	Proprotein convertase subtilisin/kexin type 7 (EC 3.4.21.-) (Lymphoma proprotein convertase) (Prohormone convertase 7) (Proprotein convertase 7) (PC7) (Proprotein convertase 8) (PC8) (hPC8) (Subtilisin/kexin-like protease PC7)	PCSK7 LPC PC7 PC8 SPC7	Homo sapiens (Human)	785
+Q29983	reviewed	MICA_HUMAN	MHC class I polypeptide-related sequence A (MIC-A)	MICA PERB11.1	Homo sapiens (Human)	383
+Q5VST6	reviewed	AB17B_HUMAN	Alpha/beta hydrolase domain-containing protein 17B (Abhydrolase domain-containing protein 17B) (EC 3.1.2.22)	ABHD17B C9orf77 FAM108B1 CGI-67	Homo sapiens (Human)	288
+Q6PCB6	reviewed	AB17C_HUMAN	Alpha/beta hydrolase domain-containing protein 17C (Abhydrolase domain-containing protein 17C) (EC 3.1.2.22)	ABHD17C FAM108C1	Homo sapiens (Human)	329
+Q7LC44	reviewed	ARC_HUMAN	Activity-regulated cytoskeleton-associated protein (hArc) (Activity-regulated gene 3.1 protein homolog) (ARC/ARG3.1) (Arg3.1)	ARC KIAA0278	Homo sapiens (Human)	396
+Q7Z5G4	reviewed	GOGA7_HUMAN	Golgin subfamily A member 7 (Golgi complex-associated protein of 16 kDa)	GOLGA7 GCP16 HDCKB03P HSPC041	Homo sapiens (Human)	137
+Q8IU99	reviewed	CAHM1_HUMAN	Calcium homeostasis modulator protein 1 (Protein FAM26C)	CALHM1 FAM26C	Homo sapiens (Human)	346
+Q96GS6	reviewed	AB17A_HUMAN	Alpha/beta hydrolase domain-containing protein 17A (Abhydrolase domain-containing protein 17A) (EC 3.1.2.22)	ABHD17A C19orf27 FAM108A1	Homo sapiens (Human)	310
+Q96P20	reviewed	NLRP3_HUMAN	NACHT, LRR and PYD domains-containing protein 3 (EC 3.6.4.-) (Angiotensin/vasopressin receptor AII/AVP-like) (Caterpiller protein 1.1) (CLR1.1) (Cold-induced autoinflammatory syndrome 1 protein) (Cryopyrin) (PYRIN-containing APAF1-like protein 1)	NLRP3 C1orf7 CIAS1 NALP3 PYPAF1	Homo sapiens (Human)	1036
+Q99572	reviewed	P2RX7_HUMAN	P2X purinoceptor 7 (P2X7) (ATP receptor) (P2Z receptor) (Purinergic receptor)	P2RX7	Homo sapiens (Human)	595
+Q9H3Z4	reviewed	DNJC5_HUMAN	DnaJ homolog subfamily C member 5 (Ceroid-lipofuscinosis neuronal protein 4) (Cysteine string protein) (CSP)	DNAJC5 CLN4	Homo sapiens (Human)	198
+Q9HC29	reviewed	NOD2_HUMAN	Nucleotide-binding oligomerization domain-containing protein 2 (Caspase recruitment domain-containing protein 15) (Inflammatory bowel disease protein 1)	NOD2 CARD15	Homo sapiens (Human)	1040
+Q9NQ36	reviewed	SCUB2_HUMAN	Signal peptide, CUB and EGF-like domain-containing protein 2 (Protein CEGP1) (Scube/You)	SCUBE2 CEGP1	Homo sapiens (Human)	999
+Q9NR96	reviewed	TLR9_HUMAN	Toll-like receptor 9 (CD antigen CD289)	TLR9 UNQ5798/PRO19605	Homo sapiens (Human)	1032
+Q9NZU7	reviewed	CABP1_HUMAN	Calcium-binding protein 1 (CaBP1) (Calbrain) (Caldendrin)	CABP1	Homo sapiens (Human)	370
+Q9Y239	reviewed	NOD1_HUMAN	Nucleotide-binding oligomerization domain-containing protein 1 (hNod1) (Caspase recruitment domain-containing protein 4)	NOD1 CARD4	Homo sapiens (Human)	953
+Q9Y2W7	reviewed	CSEN_HUMAN	Calsenilin (A-type potassium channel modulatory protein 3) (DRE-antagonist modulator) (DREAM) (Kv channel-interacting protein 3) (KChIP3)	KCNIP3 CSEN DREAM KCHIP3	Homo sapiens (Human)	256
